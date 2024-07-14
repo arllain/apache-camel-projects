@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: apache-camel-tutorial
+  diretorio-entrada: tmp/apache-camel/entrada/
+  diretorio-saida: tmp/apache-camel/saida/
